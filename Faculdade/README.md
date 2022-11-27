@@ -1,9 +1,3 @@
-Esse departamento é para registrar minha evolução na Faculdade.
+"Sem renovação não há transformação. Sem transformação não há evolução. Sem evolução não haverá nada."
 
-Em andamento!
-
-Mundo 1 - Primeiro Semestre
-
-O semestre é constituído de 5 niveis, cada nivel tem uma missão (prova).
-
-
+Atualmente estou no primeiro período da faculdade. Cada período é chamado de "Mundo". Cada mundo possui 5 níveis, e cada nível possui uma missão (prova).
