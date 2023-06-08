@@ -1,2 +1,3 @@
+Curso de Desenvolvimento Full Stack realizado na Estácio.
 
-# DevFullStack-
+Atualmente no primeiro período.
